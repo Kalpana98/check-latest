@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	background-color: #fff9eb;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	padding: 0 1rem;
+}
